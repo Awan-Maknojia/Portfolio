@@ -1,6 +1,6 @@
-# Personal Portfolio - Dhruv Chheda
+# Personal Portfolio - Awan Maknojia
 
-Welcome to the personal portfolio of Dhruv Chheda! This website showcases my skills, projects, and experience in web development. Explore my work and get in touch to discuss opportunities.
+Welcome to the personal portfolio of Awan Maknojia! This website showcases my skills, projects, and experience in web development. Explore my work and get in touch to discuss opportunities.
 
 ## Overview
 
@@ -54,14 +54,13 @@ This will create an optimized build of the project in the `build` folder. You ca
 
 ## Live Website
 
-The portfolio is live at [dhruvchheda.com](https://dhruvchheda.com). Feel free to explore the website and reach out to me.
+The portfolio is live at Feel free to explore the website and reach out to me.
 
 ## Contact Me
 
-- **Email**: [me@dhruvchheda.com](mailto:me@dhruvchheda.com)
-- **LinkedIn**: [Dhruv Chheda](https://www.linkedin.com/in/dhruv-chheda-52637522a/)
-- **GitHub**: [chhedadhruv](https://github.com/chhedadhruv)
-
+ **Email:** [maknojiaawan@gmail.com](mailto:maknojiaawan@gmail.com)
+- **GitHub:** [github.com/Awan-Maknojia](https://github.com/Awan-Maknojia)
+- **LinkedIn:** [linkedin.com/in/awan-maknojia-b6b46b222/](https://www.linkedin.com/in/awan-maknojia-b6b46b222/)
 ---
 
 Thank you for visiting my portfolio! 🚀
