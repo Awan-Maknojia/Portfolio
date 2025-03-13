@@ -61,6 +61,3 @@ The portfolio is live at Feel free to explore the website and reach out to me.
 - **Email:** [maknojiaawan@gmail.com](mailto:maknojiaawan@gmail.com)
 - **GitHub:** [github.com/Awan-Maknojia](https://github.com/Awan-Maknojia)
 - **LinkedIn:** [linkedin.com/in/awan-maknojia-b6b46b222/](https://www.linkedin.com/in/awan-maknojia-b6b46b222/)
----
-
-Thank you for visiting my portfolio! 🚀
