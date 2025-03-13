@@ -26,7 +26,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/chhedadhruv/personal-portfolio.git
+   git clone https://github.com/Awan-Maknojia/Portfolio.git
 
 2. **Navigate to Project Directory**:
    ```bash
